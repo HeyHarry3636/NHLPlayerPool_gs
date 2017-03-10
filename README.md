@@ -33,7 +33,7 @@ Michael Harris is the author of this sheet and script.
 
 ## License
 
-This code is available under the [MIT License.] (LICENSE.txt)
+This code is available under the [MIT License] (LICENSE).
 
 <img src="PoolOverview.PNG" width="923" height="355" border="10" />
 
