@@ -7,6 +7,8 @@ This is a Google Sheet and script I made for a NHL Playoff Player Pool with my g
 
 The [script] (AutoUpdateLinks.gs) fetches data using hyperlinks from each of the respective NHL teams playoff scoring websites.
 
+Note that the original sheet used active links.  The active links are now broken, so I had to result to using the archived web pages.  Please let me know if links in the sheet are broken and I will work to update them.
+
 ## Motivation
 
 The Google Sheet and script were created to decrease the maintenance of updating NHL player point totals after every playoff game.  As long as the NHL teams websites were updated, the points on the spreadsheet would be accurate. Seeing that we had 19 people in our gambling pool, it was much easier to automate this process.
@@ -33,5 +35,5 @@ Michael Harris is the author of this sheet and script.
 
 This code is available under the [MIT License.] (LICENSE.txt)
 
-<img src="PoolOverview.PNG" width="1318" height="507" border="10" />
+<img src="PoolOverview.PNG" width="923" height="355" border="10" />
 
